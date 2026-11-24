@@ -1,6 +1,6 @@
 cask "ftx1-status" do
-  version "0.2.0"
-  sha256 "34c1ee1c62287ccf59c6e5515e694985a3e861587f286dbfb737b4100bb10cb7"
+  version "0.3.0"
+  sha256 "5b535ba3dd9e1111ad45daf04167b0f439986ae152520a9f03f55591f41f0ef6"
 
   url "https://github.com/evil-wizard-corp/ftx1-status/releases/download/v#{version}/FTX1-Status-#{version}.zip"
   name "FTX1 Status"
